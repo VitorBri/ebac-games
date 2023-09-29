@@ -1,0 +1,50 @@
+.container{
+    max-width: 1024px;
+}
+section,he{
+    margin-bottom: 70px;
+}
+header {
+    background-color: rgb(143, 44, 235);
+    color: #fff;
+    margin-bottom: 26px;
+}
+header h1{
+    padding:8px ;
+    font-style: italic;
+    font-size: 46px;
+    font-weight: bold;
+}
+.cards{
+    max-width: 100%;
+    display: grid;
+    grid-template-columns:repeat(3, 32.6%) ;
+    column-gap: 2%;
+}
+.card{
+    margin-bottom: 26px ;
+}
+h2{
+    margin-bottom: 36px;
+}
+@media screen and (max-width: 767px){
+    .container{
+        max-width: 95%;
+    }
+    .cards{
+        display: block;
+    }
+    .carousel-caption h2{
+        display: none;
+    }
+}
+@media screen and (min-width: 768px) and (max-width:1023px) {
+    .container{
+        max-width: 95%;
+    }
+    .cards{
+        display: grid;
+        grid-template-columns:48% 48% ;
+        column-gap: 4%;
+    }
+}
