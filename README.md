@@ -21,7 +21,7 @@ O site foi desenvolvido utilizando **HTML, CSS e Bootstrap**, garantindo uma int
 ## Instalação e Uso
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/ebac-games.git
+   git clone https://github.com/VitorBri/ebac-games.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
