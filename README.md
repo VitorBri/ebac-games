@@ -1,7 +1,5 @@
 # EBAC Games
 
-![Badge](https://img.shields.io/badge/version-1.0-blue.svg)
-
 ## Descrição
 EBAC Games é um projeto de estudo que apresenta uma página web responsiva voltada para informações sobre jogos eletrônicos. A aplicação exibe um carrossel com próximos lançamentos e uma seção de notícias relevantes sobre o mundo dos games.
 
